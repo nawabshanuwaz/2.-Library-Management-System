@@ -1,4 +1,4 @@
-# 2.-Library-Management-System
+# Library-Management-System
 A Python-based library management application that allows users to add, search, borrow, return, and manage books with persistent JSON storage.
 
 A command-line library management application developed in Python that enables users to maintain book records, perform search operations, manage borrowing activities, and store library data locally.
